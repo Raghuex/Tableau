@@ -1,3 +1,7 @@
+## Tableau dashboard
+[superstoresales](https://public.tableau.com/app/profile/raghuvir.kumawat7030/viz/superstoresales_dashboard/Dashboard1?publish=yes)
+
+
 ## Understanding the Data
 
 (https://github.com/Raghuex/Tableau/blob/main/Superstore%20sales.csv)
